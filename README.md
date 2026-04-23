@@ -39,11 +39,9 @@ This project focuses on analyzing customer churn and retention patterns for a su
 - Optimize pricing strategies for high-risk customer segments.
 - Introduce loyalty programs and personalized offers for retention.
 
-## 📸 Dashboard Preview
-(Add your screenshots here)
 
 Example:
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots)
 
 ## 📁 Project Structure
 - data/ → Dataset used
